@@ -1,0 +1,3 @@
+
+一、用状态机识别字符串hello
+int HelloFSM(char c)；
